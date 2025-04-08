@@ -5,7 +5,7 @@ import express from 'express';
 const router = express.Router();
 
 /**
- * @route GET /authors
+ * @route GET /authors from the database
  * @group Author
  * @returns an array of all authors sorted by family name
  * @returns an error message if no authors were found 

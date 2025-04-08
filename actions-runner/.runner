@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "Vasumathis-MacBook-Air",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus26.actions.githubusercontent.com/QxgxO4YVrKMuqIFjmViZObHbikeot41ggSCz8tUYRbVFdhncH2/",
+  "gitHubUrl": "https://github.com/vasumathi298/learn-continuous-integration",
+  "workFolder": "_work"
+}
